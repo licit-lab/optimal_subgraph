@@ -9,4 +9,4 @@ The Scripts in R are used in order to re-generate the results in the article
 
 The OPL files (mod and dat) are used to compute the optimal subgraph with CPLEX (that has to be installed)
 
-The .dat files have to be created with the java program, from the data
+The .dat files have to be created with the java program, from the data (not provided) OR please contact me in order to get them (files too big to be put here)
